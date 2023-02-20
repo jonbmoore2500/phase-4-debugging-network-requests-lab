@@ -63,11 +63,16 @@ developing your own process.
 - Add a new toy when the toy form is submitted
 
   - How I debugged:
-  
+  add validations to toy.rb
+  fix syntax in create route (Toys vs Toy)
+  add bang to create
+  add rescue to create method
+  confirm all resources present
 
 - Update the number of likes for a toy
 
   - How I debugged:
+  
 
 - Donate a toy to Goodwill (and delete it from our database)
 
