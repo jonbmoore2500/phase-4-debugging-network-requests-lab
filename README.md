@@ -79,3 +79,5 @@ developing your own process.
 - Donate a toy to Goodwill (and delete it from our database)
 
   - How I debugged:
+  add :destroy to resources
+  confirm route finds correct id and destroys
