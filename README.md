@@ -72,7 +72,9 @@ developing your own process.
 - Update the number of likes for a toy
 
   - How I debugged:
-  
+  confirm update resource
+  add render json language to update route
+
 
 - Donate a toy to Goodwill (and delete it from our database)
 
